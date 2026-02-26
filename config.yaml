@@ -1,0 +1,2 @@
+input_path: data/sample_data.csv
+output_base_path: output
