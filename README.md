@@ -45,6 +45,12 @@ Inserted taxi trip data for analysis.
 
 These analytics were implemented using SQL queries executed through Python.
 
+### Week 2 Notebook
+
+Google Colab notebook for Week-2 implementation:
+
+https://colab.research.google.com/drive/1Vzghmyyo3UKheagnm0mCfslzJsyWwhCo
+
 ---
 
 # Week 3 – AWS Data Lake Implementation
